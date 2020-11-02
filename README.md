@@ -1,5 +1,5 @@
 ![alt text](https://github.com/AlsasaAmmar/AlsasaAmmar/blob/main/image.png?raw=true 'image')
-### Hi there 👋
+### Heya! 👋
 
 ## 🔭 I’m currently working on ...
 I am currently working on full-stack app called idiomia. The goal of the app is to register all idioms/proverbs of less dominating and less documented languages and dialects in one place.
