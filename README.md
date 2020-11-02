@@ -14,8 +14,7 @@ Why did the chicken cross the road?!
 alsasa.ammar@gmail.com <br/>
 https://www.linkedin.com/in/ammar-alsasa/
 ## ⚡ Fun fact: ...
-I have a ping pong table at my place 	U+1F3D3 	U1F3D3 	U+1F3D3 <br/>
-Love jogging 	U+1F3C3 U+1F3C3 U+1F3C3 
+I have a ping pong table at my place
 
 
 [![Ammar's github stats](https://github-readme-stats.vercel.app/api?username=AlsasaAmmar&theme=radical)](https://github.com/AlsasaAmmar/github-readme-stats)
