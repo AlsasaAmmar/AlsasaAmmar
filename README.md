@@ -16,7 +16,7 @@ Anguler
 ## 💬 Ask me about ...
 Why did the chicken cross the road?!
 
-## I dabble with 😈 ...
+## I dabble with ...
 JavaScript,
 React,
 TypeScript,
@@ -26,14 +26,16 @@ Css,
 Html,
 MongoDb,
 MySql,
-Black magic 🧙
+black magic 😈🧙‍♀️
 
 
 ## 📫 How to reach me: ...
 alsasa.ammar@gmail.com <br/>
-https://www.linkedin.com/in/ammar-alsasa/
+https://www.linkedin.com/in/ammar-alsasa/ <br/>
+Telepathically 👾
+
 ## ⚡ Fun fact: ...
-I have a ping pong table at my place
+I am very awesome 🕶️ and very humble 🤷
 
 
 [![Ammar's github stats](https://github-readme-stats.vercel.app/api?username=AlsasaAmmar&theme=radical)](https://github.com/AlsasaAmmar/github-readme-stats)
