@@ -2,10 +2,11 @@
 ### Heya! 👋
 
 ## 🔭 I’m currently working on ...
-I am currently working on full-stack app called idiomia. The goal of the app is to register all idioms/proverbs of less dominating and less documented languages and dialects in one place.
+# Getting enlightened 🧘
+
 
 ## 🌱 I’m currently learning ...
-I am trying to learn Anguler. 
+Anguler
 
 ## 💬 Ask me about ...
 Why did the chicken cross the road?!
