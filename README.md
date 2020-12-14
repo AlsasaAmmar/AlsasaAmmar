@@ -4,8 +4,8 @@
 ## 🔭 I’m currently working on ...
 Getting enlightened 🧘 <br/>
 Being a better boyfriend 😎 <br/>
-Learning a new programming language 🌐 <br/>
-Learning a new human language 👨‍💻  <br/>
+Learning a new programming language 👨‍💻 <br/>
+Learning a new human language 🌐 <br/>
 Improving my ping pong skills 🏓 <br/> 
 
 
