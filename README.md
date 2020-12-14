@@ -10,6 +10,19 @@ I am trying to learn Anguler.
 ## 💬 Ask me about ...
 Why did the chicken cross the road?!
 
+## I dabble with 😈 ...
+JavaScript,
+React,
+TypeScript,
+Nodejs,
+Expressjs,
+Css,
+Html,
+MongoDb,
+MySql,
+Black magic 🧙
+
+
 ## 📫 How to reach me: ...
 alsasa.ammar@gmail.com <br/>
 https://www.linkedin.com/in/ammar-alsasa/
