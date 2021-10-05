@@ -1,13 +1,6 @@
 ![alt text](https://github.com/AlsasaAmmar/AlsasaAmmar/blob/main/image.png?raw=true 'image')
 ### Heya! 👋
 
-## 🔭 I’m currently working on ...
-Getting enlightened 🧘 <br/>
-Being a better boyfriend 😎 <br/>
-Learning a new programming language 👨‍💻 <br/>
-Learning a new human language 🌐 <br/>
-Improving my ping pong skills 🏓 <br/> 
-
 
 
 ## 🌱 I’m currently learning ...
